@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_carta">Carta</string>
+    <string name="title_activity_entradas">Entradas</string>
+    <string name="title_activity_platos_fuertes">PlatosFuertes</string>
+    <string name="title_activity_bebidas">Bebidas</string>
+    <string name="title_activity_postres">Postres</string>
+    <string name="title_activity_menu_infantil">MenuInfantil</string>
+    <string name="ubicacion">Ubicacion</string>
+    <string name="ver_menu">Ver Menu</string>
+    <string name="contacto">Contacto</string>
+    <string name="salir">Salir</string>
+    <string name="title_activity_menu">MenuActivity</string>
+</resources>
